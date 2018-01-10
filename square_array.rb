@@ -1,4 +1,5 @@
 array = [1,2,3]
 def square_array(array)
-  puts array.each {|number| number**2}
+  array.each do |number|
+    puts sqarray = {number**2}
 end
